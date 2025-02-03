@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    color: #e1e1e1;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 200px;
+    min-height: 100vh;
+}
+
+.logo-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.hero{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+
+.text-logo h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.separator h2 {
+    margin: 0;
+}
+
+.subtext {
+    margin-top: -10%;
+    top: 0%;
+    text-align: right;
+    width: -1%;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.subtext p {
+    margin: 2px 0;
+    font-size: 12px;
+}
+
+.image-logo img {
+    width: 100px;
+    height: auto;
+    mix-blend-mode: screen;
+}
+
+.about-section {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-style: normal;
+    font-weight: 300;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    color: #ffffff; 
+    text-decoration: none;
+}
+
+.about-section p {
+    margin: 5px 0;
+    color: #ffffff; 
+    text-decoration: none;
+}
+
+.about-section strong {
+    font-weight: bold;
+    color: #ffffff; 
+    text-decoration: none;
+}
+.button{
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+.navbar {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #a9a9a9;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.navbar a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #1e1e1e;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+button{
+
+}
+
