@@ -1,18 +1,21 @@
 ![banner](https://i.imgur.com/m5xpdxN.png)
 
-# 💫 About Me:
+# ➤ About Me:
 
-👋 Hello! My name is **nakzuwu**, but you can call me **nakuzu**, **nkz**, or whatever 😆  
-🎨 I'm a **graphic designer** since **2021**, and I love creating unique visuals.  
-🖌️ I use **Photoshop**, **After Effects**, and **Premiere Pro** for my works.  
-🌱 Currently, I’m learning **web development** to bring my ideas to life on the web!  
+▌ Hello! My name is **nakzuwu**, but you can call me **nakuzu**, **nkz**, or whatever.  
+▌ I'm a **graphic designer** since **2021**, and I love creating unique visuals.  
+▌ I use **Photoshop**, **After Effects**, and **Premiere Pro** for my works.  
+▌ Currently learning **web development** to bring my ideas to life on the web.
 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nakzuwu.nkz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nkzdzn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nakzuwu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nakzuwu) 
+## ➤ Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nakzuwu.nkz)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nkzdzn)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nakzuwu)
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nakzuwu)
 
-# 💻 Tech Stack:
+# ➤ Tech Stack:
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
