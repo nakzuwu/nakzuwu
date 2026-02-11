@@ -44,5 +44,14 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-black?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nakzuwu&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+# ➤ Portofolio:
+## PORTFOLIO
+
+<p align="center">
+  <a href="https://www.nkzw.my.id/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
