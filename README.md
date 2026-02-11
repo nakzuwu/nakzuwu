@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://i.imgur.com/m5xpdxN.png" width="100%" />
-</p>
 ![banner](https://i.imgur.com/m5xpdxN.png)
 
 # ➤ About Me:
