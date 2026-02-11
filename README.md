@@ -1,3 +1,102 @@
+<!-- Terminal container -->
+<div
+  class="bg-black rounded-lg border border-white/20 shadow-2xl w-100 max-w-5xl overflow-hidden"
+>
+  <!-- Top Bar -->
+  <div class="bg-black text-xs text-white border-b border-white/20">
+    <pre class="leading-snug whitespace-pre-wrap px-4 py-2">
+Terminal — nkzw@nkzw:~/Portfolio
+    </pre>
+  </div>
+
+  <pre class="leading-snug whitespace-pre-wrap px-4 py-2 text-white">
+╭─░▒▓ nkzw  ~/Project ──────────────────────────── ✔  05:29 PM ▓▒░─╮
+╰─ nkzfetch                                                     ─╯
+  </pre>
+
+  <!-- Content -->
+  <div class="flex flex-col md:flex-row text-sm p-6 md:space-x-10 space-y-4 md:space-y-0 font-mono">
+
+    <!-- ASCII -->
+    <div class="text-white leading-4 whitespace-pre text-xs md:text-sm">
+<pre>
+   ++                             
+ ++++       +++++                  
++++++    +++++++++                 
+++++++   +++= ++++++               
+++++++ +++     +++++               
+++++++++++      +++++              
+++++++++++       +++++             
++++ +++++++++ +++ +++++            
+++++  +++++ +++ +++ +++++     +++  
+++    +++++ +++ +++ +++++   ++++   
+      +++++ +++ +++ +++++  ++++    
+      +++++ +++ +++++++++++++++     
+      +++++  +      +++++++++       
+      +++++           +++           
+      +++++                         
+</pre>
+    </div>
+
+    <!-- Info -->
+    <div class="text-white space-y-1">
+      <p class="text-white font-bold">nkzw@nkzw</p>
+      <p class="text-white/40">-----------------</p>
+
+      <p>Instagram: 
+        <a href="https://instagram.com/nkzdzn" target="_blank"
+           class="text-white hover:opacity-70 transition">
+           @nkzdzn
+        </a>
+      </p>
+
+      <p>GitHub:
+        <a href="https://github.com/nakzuwu" target="_blank"
+           class="text-white hover:opacity-70 transition">
+           @nakzuwu
+        </a>
+      </p>
+
+      <p>Facebook:
+        <a href="https://facebook.com/nakzuwu.nkz" target="_blank"
+           class="text-white hover:opacity-70 transition">
+           nakzuwu nkz
+        </a>
+      </p>
+
+      <p>YouTube:
+        <a href="https://youtube.com/@nakzuwu" target="_blank"
+           class="text-white hover:opacity-70 transition">
+           @nakzuwu
+        </a>
+      </p>
+
+      <p>Discord: nkzw</p>
+
+      <p>X:
+        <a href="https://x.com/nakzuwu" target="_blank"
+           class="text-white hover:opacity-70 transition">
+           @nakzuwu
+        </a>
+      </p>
+
+      <p>Portfolio:
+        <a href="https://www.nkzw.my.id/" target="_blank"
+           class="text-white hover:opacity-70 transition font-semibold">
+           nkzw.my.id
+        </a>
+      </p>
+
+      <p class="text-white/40">-----------------</p>
+      <p>Shell: zsh 5.9</p>
+      <p>Uptime: Always online</p>
+    </div>
+
+  </div>
+</div>
+<p align="center">
+  <img src="https://i.imgur.com/m5xpdxN.png" width="100%" />
+</p>
 ![banner](https://i.imgur.com/m5xpdxN.png)
 
 # ➤ About Me:
@@ -7,9 +106,7 @@
 ▌ I use **Photoshop**, **After Effects**, and **Premiere Pro** for my works.  
 ▌ Currently learning **web development** to bring my ideas to life on the web.
 
-
-
-## ➤ Socials:
+# ➤ Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nakzuwu.nkz)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nkzdzn)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nakzuwu)
