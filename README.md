@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/m5xpdxN.png)
+
 # 💫 About Me:
 
 👋 Hello! My name is **nakzuwu**, but you can call me **nakuzu**, **nkz**, or whatever 😆  
